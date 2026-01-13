@@ -20,7 +20,6 @@
 🚀 Me considero una persona que <strong>aprende rápido</strong>, se adapta con facilidad a nuevos retos y mantiene una fuerte motivación por el <strong>aprendizaje continuo</strong>, con el objetivo de seguir creciendo profesionalmente en el área de la ciberseguridad y aportar de manera ética y responsable.
 </p>
 
-
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 <br>
 
