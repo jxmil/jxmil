@@ -5,7 +5,7 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Time+New+Roman&color=FF0000&size=25&center=true&vCenter=true&width=600&height=100&lines=Cybersecurity+Student;Ethical+Hacking+Enthusiast;Pentesting+Learner;DockerLabs+%7C+Hack+The+Box+%7C+VulnHub;Learning+by+Doing;Always+Learning+and+Improving" />
 </a>
 <br>
-<h2>👋 About Me</h2>
+<h2> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> About Me</h2>
 
 <p>
 ❟❛❟ Soy estudiante de <strong>Ingeniería de Sistemas</strong>, actualmente en el <strong>tercer año de la carrera</strong>, con interés en la <strong>ciberseguridad</strong> y el <strong>hacking ético</strong>.
@@ -27,13 +27,12 @@
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width = 20px>  </picture> Programming languages
 <img src="https://skillicons.dev/icons?i=py,bash,"/>
 
-### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width = 20px>  </picture> Software & Tools
-
+### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/IDEs.gif?raw=true" width = 20px>  </picture> Software & Tools
+<img src="https://skillicons.dev/icons?i=vscode,visualstudio,github" />
 ### 🗄️ Databases and Cloud Hosting
 
-### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/IDEs.gif?raw=true" width = 20px>  </picture> IDEs
-<img src="https://skillicons.dev/icons?i=vscode,visualstudio" />
 
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/OS.gif?raw=true" width = 20px>  </picture> Operating Systems
 **![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)**
 <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
+<img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows11/windows11-original.svg" />
