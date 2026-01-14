@@ -2,7 +2,7 @@
 <!--  -->
 <p align="center">
 <a href="https://github.com/jxmil/jxmil/edit/main/README.md">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Time+New+Roman&color=FF0000&size=25&center=true&vCenter=true&width=600&height=100&lines=Cybersecurity+Student;Ethical+Hacking+Enthusiast;Pentesting+Learner;DockerLabs+%7C+Hack+The+Box+%7C+VulnHub;Learning+by+Doing;Always+Learning+and+Improving" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Time+New+Roman&color=FF0000&size=25&center=true&vCenter=true&width=600&height=100&lines=Cybersecurity+Student;Ethical+Hacking+Enthusiast;Pentesting+Learner;DockerLabs+%7C+Hack+The+Box+%7C+TryHackMe;Learning+by+Doing;Always+Learning+and+Improving" />
 </a>
 <br>
 <h2> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> About Me</h2>
@@ -20,14 +20,25 @@
 🚀 Me considero una persona que <strong>aprende rápido</strong>, se adapta con facilidad a nuevos retos y mantiene una fuerte motivación por el <strong>aprendizaje continuo</strong>, con el objetivo de seguir creciendo profesionalmente en el área de la ciberseguridad y aportar de manera ética y responsable.
 </p>
 
+
+<h2> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> CONTACT ME</h2>
+
+<p>
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/jamil001)
+</p>
+
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 <br>
 
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width = 20px>  </picture> Programming languages
 <img src="https://skillicons.dev/icons?i=py,bash,"/>
 
+
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/IDEs.gif?raw=true" width = 20px>  </picture> Software & Tools
-<img src="https://skillicons.dev/icons?i=vscode,visualstudio,github" />
+<img src="https://skillicons.dev/icons?i=vscode,visualstudio,github,virtualbox" />
+<img src="https://img.shields.io/badge/virtualbox-183A61.svg?style=for-the-badge&logo=virtualbox&logoColor=white"
+      alt="virtualbox"/>
 ### 🗄️ Databases and Cloud Hosting
 
 
